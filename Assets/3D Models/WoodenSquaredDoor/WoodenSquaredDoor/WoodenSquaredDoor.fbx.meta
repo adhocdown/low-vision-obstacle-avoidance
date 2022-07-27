@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 7cc5d4db594658745baff329bf1cbd41
+timeCreated: 1568411000
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_end
+    100004: Camera
+    100006: EscutcheonPlate.Above
+    100008: EscutcheonPlate.Above.Knob
+    100010: EscutcheonPlate.Bellow
+    100012: FacePlate
+    100014: HingesWings.Fixed
+    100016: HingesWings.Movable
+    100018: HingesWings.Movable.Armature
+    100020: Lamp
+    100022: StrikePlate
+    100024: WoodenKnocker
+    100026: //RootNode
+    100028: WoodenSquaredDoor
+    400000: Bone
+    400002: Bone_end
+    400004: Camera
+    400006: EscutcheonPlate.Above
+    400008: EscutcheonPlate.Above.Knob
+    400010: EscutcheonPlate.Bellow
+    400012: FacePlate
+    400014: HingesWings.Fixed
+    400016: HingesWings.Movable
+    400018: HingesWings.Movable.Armature
+    400020: Lamp
+    400022: StrikePlate
+    400024: WoodenKnocker
+    400026: //RootNode
+    400028: WoodenSquaredDoor
+    2000000: Camera
+    2300000: EscutcheonPlate.Above
+    2300002: EscutcheonPlate.Above.Knob
+    2300004: EscutcheonPlate.Bellow
+    2300006: FacePlate
+    2300008: HingesWings.Fixed
+    2300010: HingesWings.Movable
+    2300012: StrikePlate
+    2300014: WoodenKnocker
+    2300016: WoodenSquaredDoor
+    3300000: EscutcheonPlate.Above
+    3300002: EscutcheonPlate.Above.Knob
+    3300004: EscutcheonPlate.Bellow
+    3300006: FacePlate
+    3300008: HingesWings.Fixed
+    3300010: HingesWings.Movable
+    3300012: StrikePlate
+    3300014: WoodenKnocker
+    3300016: WoodenSquaredDoor
+    4300000: WoodenKnocker
+    4300002: StrikePlate
+    4300004: HingesWings.Movable
+    4300006: WoodenSquaredDoor
+    4300008: FacePlate
+    4300010: EscutcheonPlate.Above
+    4300012: EscutcheonPlate.Above.Knob
+    4300014: EscutcheonPlate.Bellow
+    4300016: HingesWings.Fixed
+    7400000: HingesWings.Movable.Armature|HingesWings.Movable.ArmatureAction
+    9500000: //RootNode
+    10800000: Lamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BronzeMaterial.000
+    second: {fileID: 2100000, guid: 612a5475c7d44df40b64a405015fb87f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrostedGlass
+    second: {fileID: 2100000, guid: b1418af6c7f39094993af45033ce5e54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodenSquaredDoorMaterial
+    second: {fileID: 2100000, guid: 9081aec29dd159d43a8f1f5b3c971300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escutcheonPlateMaterial.000.lower
+    second: {fileID: 2100000, guid: 035deaa5d771df24b8a8d2c85c290cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escutcheonPlateMaterial.000.upper
+    second: {fileID: 2100000, guid: 43fc7dd25bf221c4ea59f83d0c9124cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: knobMaterial.000
+    second: {fileID: 2100000, guid: a8856e423cb8c544aa2bbeb38239420f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

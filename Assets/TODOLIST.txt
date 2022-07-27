@@ -1,0 +1,11 @@
+
+
+
+TO DO:
+
+
+	Advance trial when collide with target pole
+		(instead of hitting tab to progress) 
+
+
+	Integrate Low Vision Simulator with Eye Tracking 
